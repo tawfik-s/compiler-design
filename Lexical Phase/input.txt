@@ -1,0 +1,9 @@
+fors(i = 0; i < key; ++i)
+    {
+        if (strcmp(keywords[i], buffer) == 0)
+        {
+            flag = 1;
+            break;
+        }
+    }
+    float y = new float (55.76);

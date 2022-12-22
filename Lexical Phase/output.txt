@@ -1,0 +1,48 @@
+identifier: fors
+special char: ( 
+identifier: i
+operator: = 
+numeric const: 0
+special char: ; 
+identifier: i
+operator: < 
+identifier: key
+special char: ; 
+operator: + 
+operator: + 
+identifier: i
+special char: ) 
+special char: { 
+keyword: if
+special char: ( 
+keyword: strcmp
+special char: ( 
+identifier: keywords
+special char: [ 
+identifier: i
+special char: ] 
+special char: , 
+identifier: buffer
+special char: ) 
+operator: = 
+operator: = 
+numeric const: 0
+special char: ) 
+special char: { 
+identifier: flag
+operator: = 
+numeric const: 1
+special char: ; 
+keyword: break
+special char: ; 
+special char: } 
+special char: } 
+keyword: float
+identifier: y
+operator: = 
+identifier: new
+keyword: float
+special char: ( 
+numeric const: 5576
+special char: ) 
+special char: ; 
